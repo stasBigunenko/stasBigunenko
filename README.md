@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![stasBigunenko profile views](https://u8views.com/api/v1/github/profiles/87713771/views/day-week-month-total-count.svg)](https://u8views.com/github/stasBigunenko)
+
+<a href="https://u8views.com/github/stasBigunenko"><img src="https://u8views.com/api/v1/github/profiles/87713771/views/day-week-month-total-count.svg"></a>
